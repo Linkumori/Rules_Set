@@ -1,6 +1,6 @@
 {
     "providers": {
-    "youku": {
+    "example.com": {
       "completeProvider": true,
       "forceRedirection": false,
       "domainPatterns": "||example.com^"
