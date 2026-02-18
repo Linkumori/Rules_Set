@@ -1,4 +1,5 @@
 {
+    "providers": {
     "youku": {
       "completeProvider": false,
       "forceRedirection": false,
@@ -8037,4 +8038,5 @@
       "exceptions": [],
       "redirections": []
     }
+}
 }
