@@ -3,7 +3,7 @@
     "example.com": {
       "completeProvider": true,
       "forceRedirection": false,
-      "domainPatterns": "||example.com^"
+      "domainPatterns": "||example.com^",
        "rules": ["example.com"]
       
     }
