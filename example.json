@@ -4,6 +4,7 @@
       "completeProvider": true,
       "forceRedirection": false,
       "domainPatterns": "||example.com^"
+       "rules": ["example.com"]
       
     }
   }
